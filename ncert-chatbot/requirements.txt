@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+streamlit
+requests
+pypdf
+faiss-cpu
+numpy
+langchain
+langchain-community
+langchain-openai
+langchain-huggingface
+langchain-text-splitters
+sentence-transformers
